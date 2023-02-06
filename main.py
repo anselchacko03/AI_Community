@@ -1,1 +1,1 @@
-print("Hello world - Testing v3!")
+#For AI Community Club projects
